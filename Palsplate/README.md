@@ -4,3 +4,5 @@
 
 
 Palsplate Concept Video [here](https://youtu.be/WLqcEZwD64E)
+
+Palsplate Landing Video [here](https://youtu.be/wt7yoRCyBTw)
