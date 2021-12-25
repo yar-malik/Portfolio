@@ -7,3 +7,6 @@ Palsplate is an marketplace which connects hobby chefs with people who love to e
 Palsplate Concept Video [here](https://youtu.be/WLqcEZwD64E)
 
 Palsplate Landing Video [here](https://youtu.be/wt7yoRCyBTw)
+
+
+<img width="1095" alt="Palsplate Marketing Video - YouTube 2021-12-25 21-23-23" src="https://user-images.githubusercontent.com/4105873/147393083-339e6fc0-8167-42a8-bc66-1f90a9165c40.png">
