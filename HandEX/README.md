@@ -1,11 +1,16 @@
 # HandEX
 
 
+<img width="287" alt="HandEX_logo1 png_2021-12-25_15-12-59-removebg-preview" src="https://user-images.githubusercontent.com/4105873/147386854-4ce53243-05b3-4ca2-89e9-baa4b835825f.png">
+
+
 HandEX is a platfrom where SMEs can quickly get export financing from 300k - 5M $
 
-Check the short product demo [here](https://youtu.be/icxrHZSjdEs)
+Check Product Demo 1 [here](https://youtu.be/M0e0Gy21RiE)
 
-Check the whole company pitch [here](https://youtu.be/EOKDHr_99lA)
+Check Product Demo 2 [here](https://youtu.be/icxrHZSjdEs)
+
+Check Company Pitch [here](https://youtu.be/EOKDHr_99lA)
 
 
 <img width="1413" alt="Export Finance Germany | Export Quote - HandEX 2021-12-25 17-40-01" src="https://user-images.githubusercontent.com/4105873/147389590-05c2e6c9-7d5f-4fdd-8099-ec8beb2dbda3.png">
