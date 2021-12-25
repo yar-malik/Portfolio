@@ -7,6 +7,12 @@ Culturly is the new standard that companies use to build culture in a work-from-
 3. Improve culture with 1 click through 200+ Culturly team activities
 
 
+Automate your team mood check-ins and culture processes with my help. Automatically book online event, create polls for which events to take care of, and request feedback to boost your company happiness and morale.
+
+
+Also get Machine Learning recommendation to improve company culture via Culture Packages, Online Events.
+
+
 Website: https://www.culturly.com/
 Product Link: https://youtu.be/E3CDfpjjZl8
 
