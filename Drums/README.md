@@ -2,6 +2,7 @@
 
 
 Credit Card & Spend management for any web3 business
+
 Connect your wallet, monitor your crypto cashflow and securely spend together as a web3 team
 
 Product Demo: https://youtu.be/3poZzHB-fjw
