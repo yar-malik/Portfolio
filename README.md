@@ -1,11 +1,14 @@
 # Portfolio
 
 
-1. [Drums](https://github.com/asfandyar-malik/Portfolio/tree/main/Drums)
-2. [McTalent](https://github.com/asfandyar-malik/Portfolio/tree/main/McTalent)
-3. [Culturly SaaS](https://github.com/asfandyar-malik/Portfolio/tree/main/Culturly-HR-SaaS)
-4. [Culturly Marketplace](https://github.com/asfandyar-malik/Portfolio/tree/main/Culturly-Marketplace)
-5. [Palsplate](https://github.com/asfandyar-malik/Portfolio/tree/main/Palsplate)
-6. [HandEX](https://github.com/asfandyar-malik/Portfolio/tree/main/HandEX)
-7. [Crumb](https://github.com/asfandyar-malik/Portfolio/tree/main/Crumb)
-8. [Kosmos](https://github.com/asfandyar-malik/Portfolio/tree/main/Kosmos)
+1. [Drums LLM: ChatGPT for businesses](https://trydrums.com/)
+2. [Support AI: AI Support](https://supportai.com/)
+3. [Business AI: AI Agents](https://business365.ai/)
+4. [McTalent](https://github.com/asfandyar-malik/Portfolio/tree/main/McTalent)
+5. [Culturly SaaS](https://github.com/asfandyar-malik/Portfolio/tree/main/Culturly-HR-SaaS)
+6. [Culturly Marketplace](https://github.com/asfandyar-malik/Portfolio/tree/main/Culturly-Marketplace)
+7. [Palsplate](https://github.com/asfandyar-malik/Portfolio/tree/main/Palsplate)
+8. [HandEX](https://github.com/asfandyar-malik/Portfolio/tree/main/HandEX)
+9. [Crumb](https://github.com/asfandyar-malik/Portfolio/tree/main/Crumb)
+10. [Kosmos](https://github.com/asfandyar-malik/Portfolio/tree/main/Kosmos)
+11. [Drums Credit Card](https://github.com/asfandyar-malik/Portfolio/tree/main/Kosmos)
