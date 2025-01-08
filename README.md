@@ -1,7 +1,7 @@
 # Portfolio Startups
 
 1. [Voho: AI Phone Calls](https://voho.ai)  
-   Human like AI phone call
+   Create Human sounding, AI Phone Agent within minutes
 
 2. [Layla: ChatGPT for Travel](https://layla.ai)  
    Personalized travel planning powered by AI.
