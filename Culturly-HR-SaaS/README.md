@@ -13,8 +13,6 @@ Automate your team mood check-ins and culture processes with my help. Automatica
 Also get Machine Learning recommendation to improve company culture via Culture Packages, Online Events.
 
 
-Website: https://www.culturly.com/
-
 Product Link: https://youtu.be/E3CDfpjjZl8
 
 
