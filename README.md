@@ -2,7 +2,7 @@
 
 1. [Voho: AI Phone Calls](https://voho.ai)  
    Create Human sounding, AI Phone Agent within minutes
-   [Demo:] (https://www.youtube.com/watch?v=sIqNrPQxV5o)
+   [Demo:](https://youtu.be/sIqNrPQxV5o?feature=shared&t=220)
 
 3. [Telo: Call & Qualify 100+ Candidates in Minutes Using AI Recruiters In Any Language. ](https://teloai.app/)  
    Call & Qualify 100+ Candidates in Minutes Using AI Recruiters In Any Language.
